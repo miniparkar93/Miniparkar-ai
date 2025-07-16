@@ -1,0 +1,2 @@
+# Miniparkar-ai
+codebyopenai
